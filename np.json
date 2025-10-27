@@ -1,0 +1,127 @@
+{
+  "seo": {
+    "title": "Nathaniel & Paula — December 06, 2025",
+    "description": "You are warmly invited to celebrate the wedding of Nathaniel Gomez and Paula Nicole Umali on December 06, 2025.",
+    "ogTitle": "Nathaniel & Paula | 12•06•2025",
+    "ogDescription": "Join us as we say ‘yes’ forever. Ceremony at 2PM • Reception at Hillcreek Gardens Tagaytay.",
+    "ogImage": "https://example.com/ogimage.png"
+  },
+
+  "hero": {
+    "bgImage": "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=1600&auto=format&fit=crop",
+    "coupleDisplay": "Nathaniel & Paula",
+    "tagline": "are getting married",
+    "dateLine": "Saturday, December 06, 2025 · Batangas, Philippines",
+    "inviteText": "We would be honored to have you witness our vows and celebrate with us.",
+    "weddingDateISO": "2025-12-06T14:00:00+08:00"
+  },
+
+  "bride": {
+    "name": "Paula Nicole Umali",
+    "label": "The Bride",
+    "photo": "https://.../bride.png",
+    "bio": "Gentle, steadfast, and impossibly patient. She believes love is choosing each other every single day — including the noisy days, the lazy days, and the not-so-perfect days."
+  },
+
+  "groom": {
+    "name": "Nathaniel Gomez",
+    "label": "The Groom",
+    "photo": "https://.../groom.png",
+    "bio": "Loyal, thoughtful, and quietly funny. He says she’s his calm, his answered prayer, and his favorite way to end the day."
+  },
+
+  "story": {
+    "headline": "It started with one class",
+    "paragraphs": [
+      "We were classmates in one subject in college, even though we were in different programs. We weren’t even supposed to meet — but we still did. From that one class came late-night chats, small favors, shared jokes, and eventually the kind of comfort that already felt like home.",
+      "On January 2, 2022, Paula pranked Nathaniel and told him that her mom didn’t like him and that they shouldn’t be together. The next day she couldn’t take it anymore, confessed it was all a joke… and finally said yes to him.",
+      "On April 14, 2025, Nathaniel asked her to marry him. Paula said yes (after happy crying). Now here we are — excited, grateful, and finally inviting you."
+    ]
+  },
+
+  "schedule": {
+    "dateHeader": "Saturday, December 06, 2025",
+    "noteDressCode": "Dress code: Formal / Neutral tones",
+    "noteWarning": "We kindly ask that guests refrain from wearing bright red.",
+
+    "ceremony": {
+      "time": "2:00 PM",
+      "earlyCallout": "Please arrive by 1:30 PM to be seated. Ceremony begins promptly at 2:00 PM.",
+      "labelTopRight": "Church",
+      "mapsLabel": "Open Ceremony Location in Google Maps",
+      "mapsUrl": "https://maps.app.goo.gl/7tvj9TiX9sVe9SBP9"
+    },
+
+    "reception": {
+      "time": "5:30 PM",
+      "labelTopRight": "Reception Venue",
+      "desc": "Dinner, dancing, and a few surprises. Program starts at 6:00 PM.",
+      "mapsLabel": "Open Reception Venue in Google Maps",
+      "mapsUrl": "https://maps.app.goo.gl/atGPYpCPtZL8pSci9"
+    }
+  },
+
+  "location": {
+    "ceremony": {
+      "title": "Ceremony · 2:00 PM",
+      "place": "Iglesia Ni Cristo",
+      "note": "Please arrive by 1:30 PM to be seated.",
+      "embedMap": "https://www.google.com/maps/embed?pb=!1m14!...etc..."
+    },
+    "reception": {
+      "title": "Reception · 5:30 PM",
+      "place": "Hillcreek Gardens Tagaytay",
+      "note": "Dinner and program start at 6:00 PM.",
+      "embedMap": "https://www.google.com/maps/embed?pb=!1m14!...etc..."
+    },
+    "shuttleNote": "We have arranged parking at both venues. Shuttle service from church to reception will be provided for principal sponsors and immediate family."
+  },
+
+  "entourage": {
+    "principalSponsors": [
+      "Mr. Martin Romualdez",
+      "Mrs. Sarah Discaya",
+      "Mr. Elizaldy \"Zaldy\" Co",
+      "Mr. Rodante Marcoleta"
+    ],
+    "bestMan": "Ralph Gabriel Mendoza",
+    "maidOfHonor": "Zaira Mercado",
+    "party": [
+      "Irene",
+      "Erica",
+      "Ramesses",
+      "John Leonardo",
+      "Viner",
+      "Jake"
+    ]
+  },
+
+  "gallery": [
+    "https://.../gallery1.png",
+    "https://.../gallery2.png",
+    "https://.../gallery3.png",
+    "https://.../gallery4.png"
+  ],
+
+  "gifts": {
+    "headline": "Your presence is the gift",
+    "text": "We are incredibly grateful just to celebrate with you. If you wish to give something, we would appreciate monetary gifts to help us build our first home together.",
+    "gcashLabel": "GCash",
+    "gcashNumber": "09618259389 — Nathaniel Gomez",
+    "bankLabel": "Bank Transfer (BPI)",
+    "bankNumber": "3849 9725 87",
+    "bankName": "Nathaniel Gomez",
+    "reminder": "Kindly avoid boxed gifts at the venue as we may have limited space."
+  },
+
+  "rsvp": {
+    "headline": "Will you celebrate with us?",
+    "subtext": "Please confirm by November 10, 2025 so we can reserve your seat.",
+    "formEndpoint": "https://formspree.io/f/your-endpoint"
+  },
+
+  "footer": {
+    "tag": "#GomezUmali2025",
+    "line": "Nathaniel & Paula · December 06, 2025"
+  }
+}
