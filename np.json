@@ -19,14 +19,14 @@
   "bride": {
     "name": "Paula Nicole Umali",
     "label": "The Bride",
-    "photo": "http://anilaodivingandphotography.com/assets/paula",
+    "photo": "http://anilaodivingandphotography.com/assets/np/paula",
     "bio": "Gentle, steadfast, and impossibly patient. She believes love is choosing each other every single day — including the noisy days, the lazy days, and the not-so-perfect days."
   },
 
   "groom": {
     "name": "Nathaniel Gomez",
     "label": "The Groom",
-    "photo": "http://anilaodivingandphotography.com/assets/nath",
+    "photo": "http://anilaodivingandphotography.com/assets/np/nath",
     "bio": "Loyal, thoughtful, and quietly funny. He says she’s his calm, his answered prayer, and his favorite way to end the day."
   },
 
@@ -97,10 +97,10 @@
   },
 
   "gallery": [
-    "http://anilaodivingandphotography.com/assets/gal1",
-    "http://anilaodivingandphotography.com/assets/gal2",
-    "http://anilaodivingandphotography.com/assets/gal3",
-    "http://anilaodivingandphotography.com/assets/gal4"
+    "http://anilaodivingandphotography.com/assets/np/gal1",
+    "http://anilaodivingandphotography.com/assets/np/gal2",
+    "http://anilaodivingandphotography.com/assets/np/gal3",
+    "http://anilaodivingandphotography.com/assets/np/gal4"
   ],
 
   "gifts": {
