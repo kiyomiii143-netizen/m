@@ -62,20 +62,21 @@
   },
 
   "location": {
-    "ceremony": {
-      "title": "Ceremony · 2:00 PM",
-      "place": "Iglesia Ni Cristo",
-      "note": "Please arrive by 1:30 PM to be seated.",
-      "embedMap": "https://www.google.com/maps/embed?pb=!1m14!...etc..."
-    },
-    "reception": {
-      "title": "Reception · 5:30 PM",
-      "place": "Hillcreek Gardens Tagaytay",
-      "note": "Dinner and program start at 6:00 PM.",
-      "embedMap": "https://www.google.com/maps/embed?pb=!1m14!...etc..."
-    },
-    "shuttleNote": "We have arranged parking at both venues. Shuttle service from church to reception will be provided for principal sponsors and immediate family."
+  "ceremony": {
+    "title": "Ceremony · 2:00 PM",
+    "place": "Iglesia Ni Cristo",
+    "note": "Please arrive by 1:30 PM to be seated.",
+    "embedMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d124009.43523061251!2d120.9063995!3d13.7610844!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33bd05488687a821%3A0x978d8c6093e10858!2sIGLESIA%20NI%20CRISTO%20%5BBatangas%20District%20Office%5D!5e0!3m2!1sen!2sph!4v1761560491609!5m2!1sen!2sph"
   },
+  "reception": {
+    "title": "Reception · 5:30 PM",
+    "place": "Hillcreek Gardens Tagaytay",
+    "note": "Dinner and program start at 6:00 PM.",
+    "embedMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d61913.90855092085!2d120.8060105!3d14.0996375!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33bd9d7ac7a80e05%3A0x8fa3203e4b197710!2sHillcreek%20Gardens%20Tagaytay!5e0!3m2!1sen!2sph!4v1761560465715!5m2!1sen!2sph"
+  },
+  "shuttleNote": "We have arranged parking at both venues. Shuttle service from church to reception will be provided for principal sponsors and immediate family."
+},
+
 
   "entourage": {
     "principalSponsors": [
